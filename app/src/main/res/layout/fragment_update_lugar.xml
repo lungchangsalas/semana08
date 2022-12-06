@@ -5,7 +5,7 @@
     android:layout_height="match_parent"
     android:orientation="vertical"
     android:padding="20dp"
-    tools:context=".ui.home.AddLugar">
+    tools:context=".ui.home.UpdateLugarFragment">
 
     <TextView
         android:id="@+id/textView4"
@@ -60,9 +60,9 @@
         android:inputType="textPersonName" />
 
     <Button
-        android:id="@+id/bt_add_lugar"
+        android:id="@+id/bt_update_lugar"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="@string/bt_agregar_lugar" />
+        android:text="@string/bt_update_lugar" />
 
 </LinearLayout>

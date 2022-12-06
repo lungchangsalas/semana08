@@ -15,4 +15,11 @@
         tools:layout_editor_absoluteX="339dp"
         tools:layout_editor_absoluteY="650dp" />
 
+    <androidx.recyclerview.widget.RecyclerView
+        android:id="@+id/reciclador"
+        android:layout_width="66dp"
+        android:layout_height="206dp"
+        tools:layout_editor_absoluteX="1dp"
+        tools:layout_editor_absoluteY="2dp" />
+
 </androidx.constraintlayout.widget.ConstraintLayout>

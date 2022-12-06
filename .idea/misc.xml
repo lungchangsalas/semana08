@@ -6,9 +6,11 @@
         <entry key="..\:/Users/lungc/Documents/Universidad/dispositivos mobiles/Sem08/app/src/main/res/layout/activity_main.xml" value="0.35260416666666666" />
         <entry key="..\:/Users/lungc/Documents/Universidad/dispositivos mobiles/Sem08/app/src/main/res/layout/activity_principal.xml" value="0.36666666666666664" />
         <entry key="..\:/Users/lungc/Documents/Universidad/dispositivos mobiles/Sem08/app/src/main/res/layout/app_bar_principal.xml" value="0.36666666666666664" />
-        <entry key="..\:/Users/lungc/Documents/Universidad/dispositivos mobiles/Sem08/app/src/main/res/layout/content_principal.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/lungc/Documents/Universidad/dispositivos mobiles/Sem08/app/src/main/res/layout/content_principal.xml" value="0.22" />
         <entry key="..\:/Users/lungc/Documents/Universidad/dispositivos mobiles/Sem08/app/src/main/res/layout/fragment_add_lugar.xml" value="0.36666666666666664" />
         <entry key="..\:/Users/lungc/Documents/Universidad/dispositivos mobiles/Sem08/app/src/main/res/layout/fragment_home.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/lungc/Documents/Universidad/dispositivos mobiles/Sem08/app/src/main/res/layout/fragment_lugar_fila.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/lungc/Documents/Universidad/dispositivos mobiles/Sem08/app/src/main/res/layout/fragment_update_lugar.xml" value="0.25" />
       </map>
     </option>
   </component>

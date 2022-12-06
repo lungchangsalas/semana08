@@ -31,7 +31,7 @@ class AddLugar : Fragment() {
         homeViewModel = ViewModelProvider(this).get(homeViewModel::class.java)
         _binding = FragmentAddLugarBinding.inflate(inflater, container, false)
 
-        binding.btAgregarLugar.setOnClickListener{agregarLugar()}
+        binding.btAddLugar.setOnClickListener{agregarLugar()}
         // Inflate the layout for this fragment
         return binding.root
     }
