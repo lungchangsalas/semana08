@@ -43,7 +43,7 @@ class AddLugar : Fragment() {
        val web = binding.etWeb.text.toString()
 
        if(nombre.isNotEmpty()){
-            val lugar = Lugar(0, nombre, correo, telefono, web)
+            val lugar = Lugar("", nombre, correo, telefono, web)
            //Proceso de agregar bd
             homeViewModel.saveLugar(lugar)
            Toast.makeText(requireContext(), "Exito", Toast.LENGTH_LONG).show()
