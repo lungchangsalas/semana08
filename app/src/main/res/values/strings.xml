@@ -27,4 +27,10 @@
     <string name="msg_data">Faltan Datos!</string>
 
     <string name="msg_error">Revisar los datos</string>
+
+
+    <string name="msgInicioNotaAudio">Inicio de grabacion</string>
+    <string name="msgDetieneNotaAudio">Inicio de grabacion</string>
+
+    <string name="msgGuardandoLugar">Subiendo archivos</string>
 </resources>
